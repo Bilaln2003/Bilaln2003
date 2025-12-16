@@ -35,10 +35,6 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilaln2003&show_icons=true&theme=radical" alt="Bilaln2003" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilaln2003&layout=compact&theme=radical" alt="Bilaln2003" />
-</p>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/bilal-irfan-a7b877282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal-irfan" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilaln2003&show_icons=true&theme=radical&v=1" alt="Bilaln2003" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilaln2003&layout=compact&theme=radical&v=1" alt="Bilaln2003" />
 </p>
