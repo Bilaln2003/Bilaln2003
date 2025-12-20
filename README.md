@@ -43,7 +43,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilaln2003&show_icons=true&theme=radical&v=3" alt="Bilaln2003" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilaln2003&show_icons=true&theme=radical&v=4" alt="Bilaln2003" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilaln2003&layout=compact&theme=radical&v=3" alt="Bilaln2003" />
 </p>
 
